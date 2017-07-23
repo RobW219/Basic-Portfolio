@@ -183,21 +183,21 @@ footer {
 
 input[type=text], select, textarea {
     width: 100%; 
-    padding: 12px;   
-    border: 1px solid #ccc; 
-    border-radius: 4px; 
+    padding: 12pt;   
+    border: 1pt solid #ccc; 
+    border-radius: 4pt; 
     box-sizing: border-box; 
-    margin-top: 10px; 
-    margin-bottom: 16px; 
+    margin-top: 10pt; 
+    margin-bottom: 16pt; 
     resize: vertical
 }
 
 input[type=submit] {
     background-color: orange;
     color: white;
-    padding: 12px 20px;
+    padding: 12pt 20pt;
     border: none;
-    border-radius: 4px;
+    border-radius: 4pt;
     cursor: pointer;
 }
 
@@ -206,6 +206,6 @@ input[type=submit]:hover {
 }
 
 .contactContent {
-    border-radius: 5px;
-    padding: 20px;
+    border-radius: 5pt;
+    padding: 20pt;
 }
